@@ -13,9 +13,7 @@ app = FastAPI(
 origins = [
     "http://localhost:3000",
     "http://127.0.0.1:3000",
-    "https://githack.vercel.app",
-    "https://githack-jk7u.vercel.app",
-    "https://githack-hdxk.vercel.app"
+    "https://githack-e1fc.vercel.app"
 ]
 
 
