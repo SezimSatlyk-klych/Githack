@@ -18,7 +18,7 @@ function Anketa() {
     setArchetypeResult(null);
 
     try {
-      const response = await fetch('http://20.83.171.131:8000/assign-archetypes', {
+      const response = await fetch('https://menrsuxhack.shop/assign-archetypes', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
