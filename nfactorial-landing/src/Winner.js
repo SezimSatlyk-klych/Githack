@@ -3,7 +3,8 @@ import { Link } from 'react-router-dom';
 import './Winner.css';
 
 // Базовый URL API с полным адресом
-const API_BASE_URL = 'http://localhost:8000';
+const API_BASE_URL = 'http://20.83.171.131:8000';
+
 
 const Winner = () => {
   const [winnerInfo, setWinnerInfo] = useState(null);
