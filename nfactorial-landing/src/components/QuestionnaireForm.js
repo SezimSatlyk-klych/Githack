@@ -15,7 +15,7 @@ import EmotionalReflection from './questions/EmotionalReflection';
 import PhotoAgreement from './questions/PhotoAgreement';
 
 // Базовый URL API с полным адресом
-const API_BASE_URL = 'http://20.83.171.131:8000';
+const API_BASE_URL = 'https://menrsuxhack.shop/';
 
 
 const QuestionnaireForm = () => {
