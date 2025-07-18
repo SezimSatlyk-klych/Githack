@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import './Winner.css';
 
 // Базовый URL API с полным адресом
-const API_BASE_URL = 'https://menrsuxhack.shop/';
+const API_BASE_URL = 'https://menrsuxhack.shop';
 
 
 const Winner = () => {
